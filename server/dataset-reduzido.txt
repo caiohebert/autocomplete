@@ -1,0 +1,100 @@
+AnonID	Query	QueryTime	ItemRank	ClickURL
+479	family guy	2006-03-01 16:01:20		
+479	also sprach zarathustra	2006-03-02 14:48:55		
+479	family guy movie references	2006-03-03 22:37:46	1	http://www.familyguyfiles.com
+479	top grossing movies of all time	2006-03-03 22:42:42	1	http://movieweb.com
+479	top grossing movies of all time	2006-03-03 22:42:42	2	http://www.imdb.com
+479	car decals	2006-03-03 23:20:12	4	http://www.decaljunky.com
+479	car decals	2006-03-03 23:20:12	1	http://www.modernimage.net
+479	car decals	2006-03-03 23:20:12	5	http://www.webdecal.com
+479	car window decals	2006-03-03 23:24:05	9	http://www.customautotrim.com
+479	car window sponsor decals	2006-03-03 23:27:17	3	http://www.streetglo.net
+479	car sponsor decals	2006-03-03 23:28:59		
+479	car brand name decals	2006-03-03 23:29:35		
+479	brand name decals	2006-03-03 23:29:58		
+479	bose	2006-03-03 23:30:11	1	http://www.bose.com
+479	bose car decal	2006-03-03 23:31:48	1	http://stickers.signprint.co.uk
+479	bose car decal	2006-03-03 23:31:48	1	http://stickers.signprint.co.uk
+479	bose car decal	2006-03-03 23:31:48	7	http://www.motorcitydecals.com
+479	chicago the mix	2006-03-04 22:11:31	1	http://www.wtmx.com
+479	chicago the drive	2006-03-04 22:14:51	2	http://www.wdrv.com
+479	chicago radio annoucer whip	2006-03-04 22:16:07		
+479	chicago radio whip	2006-03-04 22:16:27		
+479	chicago radio brian the whipping boy	2006-03-04 22:17:00	1	http://www.djheadlines.com
+479	emma watson	2006-03-04 23:05:53	1	http://www.imdb.com
+479	stanford encyclopedia of philosophy	2006-03-06 21:57:14	1	http://plato.stanford.edu
+479	internet encyclopedia of philosophy	2006-03-06 21:59:30	1	http://www.iep.utm.edu
+479	www library philosophy	2006-03-06 22:01:29	2	http://www.bris.ac.uk
+479	allegory of the cave	2006-03-06 22:03:19	1	http://faculty.washington.edu
+479	allegory of the cave	2006-03-06 22:03:19	2	http://www.wsu.edu:8080
+479	allegory of the cave	2006-03-06 22:03:19	6	http://en.wikipedia.org
+479	citation machine	2006-03-06 22:57:22	1	http://citationmachine.net
+479	howard stern lawsuit	2006-03-08 00:14:55		
+479	sirius playboy	2006-03-08 17:23:07	3	http://www.orbitcast.com
+479	opec	2006-03-09 09:19:29		
+479	citation machine	2006-03-13 18:25:12	1	http://citationmachine.net
+479	wto history	2006-03-13 18:26:09	1	http://depts.washington.edu
+479	wto history	2006-03-13 18:26:09	3	http://www.pbs.org
+479	wto history	2006-03-13 18:26:09	4	http://www.wto.org
+479	wikpedia	2006-03-13 18:29:21	1	http://en.wikipedia.org
+479	britannica	2006-03-13 18:41:09	1	http://www.britannica.com
+479	wto	2006-03-13 18:44:23	1	http://www.wto.org
+479	wto history	2006-03-13 18:48:27		
+479	wto history	2006-03-13 18:48:35	1	http://depts.washington.edu
+479	wto history	2006-03-13 18:48:35	4	http://www.wto.org
+479	wto history	2006-03-13 18:48:35	6	http://www2.netdoor.com
+479	wto history	2006-03-13 18:48:35	7	http://www.econ.iastate.edu
+479	wto history	2006-03-13 18:48:35	9	http://cyberjournal.org
+479	wto history	2006-03-13 18:48:35	2	http://depts.washington.edu
+479	wto history	2006-03-13 18:48:35	4	http://www.wto.org
+479	www.galleryhost.com	2006-03-15 01:13:14		
+479	prairie state college student email	2006-03-20 23:15:59	3	http://students.prairiestate.edu
+479	ronny van zant	2006-03-22 00:23:17		
+479	ronnie van zant	2006-03-22 00:23:55		
+479	zack wylde	2006-03-22 00:25:01		
+479	zack wylde lead singer	2006-03-22 00:26:26		
+479	ozzy guitarist	2006-03-22 00:27:44	1	http://www.ultimate-guitar.com
+479	www.whitesox.xom	2006-03-22 11:38:16		
+479	fantasies	2006-03-27 00:05:25	3	http://www.fantasies.com
+479	proofs for the existence of god	2006-03-27 15:45:39	1	http://www.godlessgeeks.com
+479	proofs for the existence of god	2006-03-27 15:45:39	2	http://www.existence-of-god.com
+479	proofs for the existence of god	2006-03-27 15:45:39	3	http://www.philosopher.org.uk
+479	things that exist but u cant see	2006-03-27 19:00:03		
+479	things that exist but u can't see	2006-03-27 19:00:21	6	http://www.thingsthatdontexist.com
+479	citation machine	2006-03-30 09:19:12	1	http://citationmachine.net
+479	germa translator	2006-03-31 15:44:15		
+479	german translation	2006-03-31 15:44:28	1	http://german.about.com
+479	german translation	2006-03-31 15:44:28	3	http://www.freetranslation.com
+479	average tax refund in 2005	2006-04-07 01:54:56	1	http://abcnews.go.com
+479	city wallpaper	2006-04-11 23:12:46		
+479	www.prariestate.edu	2006-04-19 00:44:58		
+479	www.prariestate.cc.il.us	2006-04-19 00:45:35		
+479	prariestate college	2006-04-19 00:46:16		
+479	prairie state college	2006-04-19 00:46:35	1	http://www.prairie.cc.il.us
+479	south suburban college	2006-04-19 00:47:53	1	http://www.ssc.cc.il.us
+479	dictionary	2006-04-20 23:40:29		
+479	tony sopranos russian girlfriend	2006-04-22 00:50:43		
+479	www.prariestate.cc.il.us	2006-04-23 18:08:24		
+479	www.psc.cc.il.us	2006-04-23 18:09:01		
+479	prairie state college	2006-04-23 18:10:20	1	http://www.prairie.cc.il.us
+479	south suburban college	2006-04-24 01:00:39	1	http://www.ssc.cc.il.us
+479	south suburban college	2006-04-24 01:00:39	1	http://www.ssc.cc.il.us
+479	dictionary	2006-04-24 01:10:01		
+479	the internet encyclopedia of philosophy	2006-04-24 15:39:36	1	http://www.iep.utm.edu
+479	citation mine	2006-04-24 20:40:06		
+479	citation machine	2006-04-24 20:40:22	2	http://citationmachine.net
+479	citation machine	2006-04-24 20:40:22	3	http://www.landmark-project.com
+479	citation machine	2006-04-24 20:40:22	1	http://citationmachine.net
+479	6 6 06	2006-04-28 22:19:18		
+479	the signs are all around you	2006-04-28 22:19:48		
+479	the signs are all around you 6 6 06	2006-04-28 22:22:11	1	http://vnboards.ign.com
+479	comcast sports net chicago	2006-04-28 23:31:52	1	http://chicago.comcastsportsnet.com
+479	xm radio	2006-05-02 00:26:12	1	http://www.xmradio.com
+479	cranial nerves	2006-05-05 01:37:39	5	http://staff.washington.edu
+479	cranial nerves	2006-05-05 01:37:39	7	http://www.meddean.luc.edu
+479	cranial nerves	2006-05-05 01:37:39	3	http://www.gwc.maricopa.edu
+479	eye muscles	2006-05-05 01:41:22	4	http://www.patient.co.uk
+479	eye muscles	2006-05-05 01:41:22	2	http://cim.ucdavis.edu
+479	underworld evolution	2006-05-05 09:49:06	2	http://www.sonypictures.com
+479	underworld evolution	2006-05-05 09:49:06	3	http://www.imdb.com
+479	mvp baseball 2007	2006-05-08 20:02:48		
