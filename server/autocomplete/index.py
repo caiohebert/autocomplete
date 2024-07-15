@@ -53,11 +53,13 @@ def load(trie_file: str):
     trie = Trie()
     before_load_trie = time.time()
     with open(trie_file, "rb") as f:
-        trie.deserialize(f)
+        response = trie.deserialize(f)
 
     print(
         f"Tempo para carregar a árvore de prefixos: {time.time() - before_load_trie:.2f}s"
     )
+
+    return response
 
 
 if __name__ == "__main__":

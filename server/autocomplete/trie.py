@@ -1,5 +1,6 @@
 import itertools
 import struct
+import pickle
 
 from dataclasses import dataclass, field
 from typing import Iterator, Optional, BinaryIO
@@ -109,7 +110,9 @@ class Trie:
             output_file: Arquivo binário para serializar a árvore.
         """
         # EXERCÍCIO 4: Implementar função de serialização da árvore.
-        pass
+
+        pickle.dump(self.node_list, output_file)
+
 
     @staticmethod
     def deserialize(input_file: BinaryIO) -> "Trie":
@@ -120,7 +123,9 @@ class Trie:
             input_file: Arquivo binário para deserializar a árvore.
         """
         # EXERCÍCIO 4: Implementar função de desserialização da árvore.
-        return Trie()
+
+        node_list = pickle.load(input_file)
+        return Trie(node_list)
 
 
 @dataclass(slots=True)

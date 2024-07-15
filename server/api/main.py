@@ -7,7 +7,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from autocomplete.trie import Trie
-from autocomplete.index import build_trie_from_csv_file
+from autocomplete.index import build_trie_from_csv_file, load
 
 
 try:
@@ -25,7 +25,11 @@ except ValueError:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    app.state.trie = build_trie_from_csv_file(QUERIES_FILE)
+    # app.state.trie = build_trie_from_csv_file(QUERIES_FILE)
+
+    # serialização
+    app.state.trie = load("./trie.bin")
+
     yield
 
 
