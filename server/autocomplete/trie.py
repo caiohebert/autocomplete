@@ -31,6 +31,7 @@ class Trie:
                 next_node = new_node
             current_node = next_node
         current_node.set_is_word()
+        current_node.increase_rank()
         
        
     def insert_word(self, current_node: "TrieNode", word: str):
@@ -99,7 +100,24 @@ class Trie:
             yield from self.dfs(next_node, word + chr(edge.get_char()))
 
             
+    def get_ranked_suggestions(self, node: "TrieNode") -> Iterator[str]:
+        suggestions = []
+        self.ranked_dfs(node, suggestions, "")
 
+        ordered_tuples = sorted(suggestions, key=lambda x: x[1], reverse=True)
+        ordered_sug = [x[0] for x in ordered_tuples]
+        for suggestion in ordered_sug:
+            yield suggestion
+    
+    def ranked_dfs(self, node: "TrieNode", sug_list: list, word: str):
+        if node.get_is_word() and word:
+            ranked_word = (word, node.get_rank())
+            sug_list.append(ranked_word)
+
+        for edge in node.get_edges():
+            # segue um caminho até o final antes de voltar e ir para outro
+            next_node = self.node_list[edge.get_node_id()]
+            self.ranked_dfs(next_node, sug_list, word + chr(edge.get_char()))
 
 
     def serialize(self, output_file: BinaryIO):
@@ -134,6 +152,7 @@ class TrieNode:
     """Arestas que saem deste nó."""
     is_word: bool = False
     """Indica se este nó é o final de uma palavra."""
+    quantity: int = 0
 
     def get_edges(self) -> list["TrieEdge"]:
         return self.edges
@@ -149,6 +168,11 @@ class TrieNode:
         new_edge = TrieEdge(char, node_id)
         self.edges.append(new_edge)
 
+    def increase_rank(self):
+        self.quantity += 1
+
+    def get_rank(self):
+        return self.quantity
 
 @dataclass(frozen=True, slots=True)
 class TrieEdge:

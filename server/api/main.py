@@ -53,5 +53,7 @@ def complete(q: str):
     if trie_node is not None:
         limit = DEFAULT_SUGGESTION_LIMIT
         iter_suffix = itertools.islice(trie.iter_suffix(trie_node), limit)
+        # para ranqueamento
+        # iter_suffix = itertools.islice(trie.get_ranked_suggestions(trie_node), limit)
         suggestions = list(q + suffix for suffix in iter_suffix)
     return {"suggestions": suggestions}
